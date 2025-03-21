@@ -19,5 +19,15 @@ public class Operadores {
 
         String resultado = a == b ? "Verdadeiro" : "Falso";
         System.out.println(resultado);
+
+
+        //Operadores Relacionais
+
+        // != diferente
+        // == igual
+        // > maior
+        // < menor
+        // >= maior ou igual
+        // <= menor ou igual
     }
 }
