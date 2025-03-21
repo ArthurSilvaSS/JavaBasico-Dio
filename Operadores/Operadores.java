@@ -8,5 +8,16 @@ public class Operadores {
         int soma = primeiroNumero + segundoNumero;
 
         System.out.println(soma);
+
+        //Operadores Ternarios
+        // ? :
+
+        int a, b;
+
+        a = 5;
+        b = 6;
+
+        String resultado = a == b ? "Verdadeiro" : "Falso";
+        System.out.println(resultado);
     }
 }
